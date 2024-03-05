@@ -1,1 +1,21 @@
+body {
+ background-image: linear-gradient(#d997b1,#d997b1);
+ font-family: Columbus, serif;
+ font-size: 100%
+}
 
+h1{
+font-size: 250%;
+color: #000000;
+text-align: center;
+}
+
+h2{
+font-size:150%;
+color:#000000;
+padding-left: 15px;
+}
+
+p{
+color:#000000;
+}
